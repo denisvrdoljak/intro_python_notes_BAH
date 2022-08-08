@@ -1,0 +1,7 @@
+id
+first-name
+last-name
+order-number
+subtotal
+tax
+total
